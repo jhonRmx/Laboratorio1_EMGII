@@ -17,4 +17,4 @@ print("Precio: " + str(precio))
 
 #Entrada
 nombre = input("Ingrese su nombre: ")
-print("Hola" +nombre)
+print("Hola " +nombre)
