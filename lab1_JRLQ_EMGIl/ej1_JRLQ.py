@@ -6,7 +6,7 @@ edad = 20
 #Float
 precio = 50.5
 #Str
-nombre = "Bruno Diaz"
+nombre = "Jhonatan laruta"
 #Bool
 bandera = True
 
